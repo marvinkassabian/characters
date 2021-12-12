@@ -2,11 +2,11 @@
 
 ## Discoveries
 
-* [**Fiery Cocktail (Su)**](discoveries.md#fiery-cocktail-su)
+* [**FIERY COCKTAIL (Su)**](discoveries.md#fiery-cocktail-su)
 
 ## Feats
 
-* [**Bomb (su)**](feats.md#bomb-su)
+* [**BOMB (su)**](feats.md#bomb-su)
 * [**ARMOR PROFICIENCY, LIGHT**](feats.md#armor-proficiency-light)
 * [**BREW POTION**](feats.md#brew-potion)
 * [**BURN! BURN! BURN!**](feats.md#burn-burn-burn)
@@ -14,6 +14,8 @@
 * [**RAPID SHOT**](feats.md#rapid-shot)
 * [**THROW ANYTHING**](feats.md#throw-anything)
 * [**WEAPON PROFICIENCY, SIMPLE**](feats.md#weapon-proficiency-simple)
+* [**TWO-WEAPON FIGHTING (Combat)**](feats.md#two-weapon-fighting-combat)
+* [**FIRE BOMBARDIER (Su or Ex)**](feats.md#fire-bombardier-su-or-ex)
 
 ## Traits
 
