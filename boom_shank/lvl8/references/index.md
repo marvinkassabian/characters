@@ -2,9 +2,9 @@
 
 ## Discoveries
 
-* [## **Fiery Cocktail (Su)**](discoveries.md#fiery-cocktail-(su))
+* [## **Fiery Cocktail (Su)**](discoveries.md#fiery-cocktail-su)
 
 ## Feats
 
-* [**Bomb (su)**](feats.md#bomb-(su))
-* [**ARMOR PROFICIENCY, LIGHT**](feats#armor-proficiency,-light)
+* [**Bomb (su)**](feats.md#bomb-su)
+* [**ARMOR PROFICIENCY, LIGHT**](feats.md#armor-proficiency-light)
