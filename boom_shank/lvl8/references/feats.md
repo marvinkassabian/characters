@@ -1,7 +1,6 @@
-
 # **Feats**
 
-## **Bomb (su)**
+## **BOMB (su)**
 
     In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can use a number of bombs each day equal to his class level + his Intelligence modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become inert—their method of creation prevents large volumes of explosive material from being created and stored. In order to create a bomb, the alchemist must use a small vial containing an ounce of liquid catalyst—the alchemist can create this liquid catalyst from small amounts of chemicals from an alchemy lab, and these supplies can be readily refilled in the same manner as a spellcaster’s component pouch. Most alchemists create a number of catalyst vials at the start of the day equal to the total number of bombs they can create in that day—once created, a catalyst vial remains usable by the alchemist for years.
 
