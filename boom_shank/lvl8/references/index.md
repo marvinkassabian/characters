@@ -3,6 +3,9 @@
 ## Discoveries
 
 * [**FIERY COCKTAIL (Su)**](discoveries.md#fiery-cocktail-su)
+* [**FAST BOMBS**](discoveries.md#fast-bombs)
+* [**ROCKET BOMB (Su)**](discoveries.md#rocket-bomb-su)
+* [**SCRAP BOMB (Su)**](discoveries.md#scrap-bomb-su)
 
 ## Feats
 

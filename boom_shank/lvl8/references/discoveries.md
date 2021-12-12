@@ -30,3 +30,13 @@ This discovery is available to goblin alchemists.
     Alchemists with this discovery can prepare special rockets to deliver their bombs. Rocket bombs travel farther and explode bigger than normal bombs, but cannot target individual creatures. Rocket bombs explode in a 20-foot radius, and all creatures in that area take the alchemist’s normal splash damage. The range increment on a rocket bomb is 50 feet. Rocket bombs cannot be used with the precise bomb or fast bomb discoveries. An alchemist must be at least 6th level before selecting this discovery. 
 
 [source](https://www.d20pfsrd.com/races/other-races/featured-races/arg-goblin/fire-bomber-alchemist-goblin/rocket-bomb-su)
+
+## **SCRAP BOMB (Su)**
+
+This discovery is available to goblin alchemists.
+
+**Benefit**: 
+
+    When the alchemist creates a bomb, he can choose to have it explode into shards of shrapnel that deal piercing damage. A creature that takes a direct hit from a scrap bomb takes 1 point of bleed damage per die of bomb damage unless it succeeds at a Reflex save.
+
+[source](https://www.d20pfsrd.com/races/other-races/featured-races/arg-goblin/fire-bomber-alchemist-goblin/scrap-bomb-su/)
